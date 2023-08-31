@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psa3yoga&theme=github_dark)-->
+<!--![Top Langs](https://github-readme-stats.psayoga.vercel.app/api/top-langs/?username=psa3yoga&theme=github_dark)-->
 
 <!--
 <div>
@@ -31,14 +31,14 @@
 <div>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=psa3yoga&count_private=true&theme=github_dark"
+    srcset="https://github-readme-stats.psayoga.vercel.app/api/top-langs/?username=psa3yoga&count_private=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=psa3yoga&count_private=true"
+    srcset="https://github-readme-stats.psayoga.vercel.app/api/top-langs/?username=psa3yoga&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psa3yoga&count_private=true" />
+  <img align="left" src="https://github-readme-stats.psayoga.vercel.app/api/top-langs/?username=psa3yoga&count_private=true" />
 </picture>
 </div>
 <!--
